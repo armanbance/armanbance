@@ -1,12 +1,12 @@
 # Hi there, I'm Arman Bance 👋
 
-I'm a passionate and driven Computer Science student at **San Jose State University** (GPA: 3.9/4.0) with a keen interest in building impactful and scalable software solutions. My goal is to leverage my skills in AI, backend development, and full-stack engineering to create innovative products that solve real-world problems.
+I'm a passionate and driven Computer Science student at **San Jose State University** with a passion for building impactful and creative software solutions. My goal is to leverage my skills in AI, backend development, and full-stack engineering to create innovative products that solve real-world problems.
 
 ---
 
 ### 🔭 What I'm Currently Working On
 
-I am currently a **Software Developer Intern** at the **Stanford School of Medicine**. I'm working with a talented team of Stanford alumni and faculty to develop a mobile application that uses AI to automate the discovery of research papers. Our aim is to save researchers over 60 minutes per week by streamlining their workflow. My role involves building the backend and algorithms using **Node.js** and **TypeScript** to find relevant papers, integrate with existing research profiles, and develop an intelligent AI chatbot assistant.
+I am currently a **Software Developer Intern** at the **Stanford School of Medicine**. I'm working in a team with Stanford alumni and faculty to develop a mobile application that uses AI to automate the discovery of research papers. My role involves building the backend and algorithms using **Node.js** and **TypeScript** to find relevant papers, integrate with existing research profiles, and develop an intelligent AI chatbot assistant.
 
 ---
 
