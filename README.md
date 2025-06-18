@@ -38,9 +38,5 @@ I have experience with a variety of technologies, including:
 ---
 
 ### 📫 Let's Connect!
-
-I'm always open to connecting with new people and exploring exciting opportunities. Feel free to reach out to me!
-
 - **LinkedIn:** [linkedin.com/in/arman-bance](https://linkedin.com/in/arman-bance)
 - **Portfolio:** [arman-portfolio-5281.vercel.app](https://arman-portfolio-5281.vercel.app)
-- **GitHub:** [github.com/armanbance](https://github.com/armanbance)
