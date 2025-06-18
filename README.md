@@ -1,25 +1,8 @@
 # Hi there, I'm Arman Bance 👋
 
-I'm a passionate and driven Computer Science student at **San Jose State University** with a passion for building impactful and creative software solutions. My goal is to leverage my skills in AI, backend development, and full-stack engineering to create innovative products that solve real-world problems.
-
----
-
 ### 🔭 What I'm Currently Working On
 
 I am currently a **Software Developer Intern** at the **Stanford School of Medicine**. I'm working in a team with Stanford alumni and faculty to develop a mobile application that uses AI to automate the discovery of research papers. My role involves building the backend and algorithms using **Node.js** and **TypeScript** to find relevant papers, integrate with existing research profiles, and develop an intelligent AI chatbot assistant.
-
----
-
-### 🚀 My Projects
-
-I thrive on bringing ideas to life. Here are a couple of projects I'm particularly proud of:
-
-| Project                                       | Description                                                                                                                                                                                          | Tech Stack                                                                                              |
-| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **[ChillGuy.ai](https://devpost.com)** | An AI-powered voice agent that provides mental health and wellness check-ins via phone calls. This project won **2nd place overall** at Santa Clara University’s Hack for Humanity 2025 out of over 330 participants. | `TypeScript`, `Node.js`, `React.js`, `Google OAuth`, `Eleven Labs`, `Twilio`, `MongoDB`                  |
-| **[OpenScript](https://www.openscript.me)** | A scalable AI-driven script generation engine that learns and mimics a user's content style from their previous videos. This tool has helped content creators achieve over **2 million combined views**. | `Next.js`, `TypeScript`, `PostgreSQL (Supabase)`                                                        |
-
----
 
 ### 💻 My Tech Stack
 
