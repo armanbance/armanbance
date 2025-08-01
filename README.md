@@ -2,7 +2,7 @@
 
 ### 🔭 What I'm Currently Working On
 
-I am currently a **Software Developer Intern** at the **Stanford School of Medicine**. I'm working in a team with Stanford alumni and faculty to develop a mobile application that uses AI to automate the discovery of research papers. My role involves building the backend and algorithms using **Node.js** and **TypeScript** to find relevant papers, integrate with existing research profiles, and develop an intelligent AI chatbot assistant.
+I am currently a **Software Developer Intern** at the **Stanford School of Medicine**. I'm working in a team with Stanford alumni and faculty to develop a mobile application that uses AI to automate the discovery of research papers. My role involves building the backend and algorithms using **Python** and **Django** to find relevant papers, integrate with existing research profiles, and develop an intelligent AI chatbot assistant.
 
 ### 💻 My Tech Stack
 
