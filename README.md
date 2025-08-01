@@ -19,6 +19,7 @@ I have experience with a variety of technologies, including:
 **Libraries & Frameworks:**
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -37,4 +38,4 @@ I have experience with a variety of technologies, including:
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/arman-bance](https://linkedin.com/in/arman-bance)
-- **Portfolio:** [arman-portfolio-5281.vercel.app](https://arman-portfolio-5281.vercel.app)
+- **Portfolio:** [armanbance.vercel.app](https://armanbance.vercel.app)
