@@ -1,4 +1,4 @@
-# Hi there, I'm Arman Bance 👋
+# Hi, I'm Arman Bance 👋
 
 ### 🔭 What I'm Currently Working On
 
