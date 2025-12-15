@@ -1,8 +1,8 @@
 # Hi, I'm Arman Bance 👋
 
-### 🔭 What I'm Currently Working On
+### About Me
 
-I am currently a **Software Developer Intern** at **Stanford University's School of Medicine**. I'm working in a team with Stanford alumni and faculty to develop a mobile application that uses AI to automate the discovery of research papers. My role involves building the backend and algorithms using **Python** and **Django** to find relevant papers, integrate with existing research profiles, and develop an intelligent AI chatbot assistant.
+I am a passionate developer seeking internships for Summer and Fall 2026. Most recently over summer 2025, I was a **Software Developer Intern** at **Stanford University's School of Medicine**. I worked in a team with Stanford alumni and faculty to develop a mobile application that uses AI to automate the discovery of research papers. My role involved building the backend using **Python** and **Django** along with **RAG** to ingest thousands of papers, integrating with users' existing research profiles, and developing an intelligent AI chatbot assistant with LangChain.
 
 ### 💻 My Tech Stack
 
@@ -36,6 +36,6 @@ I have experience with a variety of technologies, including:
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 - **LinkedIn:** [linkedin.com/in/arman-bance](https://linkedin.com/in/arman-bance)
 - **Portfolio:** [armanbance.vercel.app](https://armanbance.vercel.app)
