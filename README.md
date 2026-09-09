@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a passionate developer seeking new grad SWE roles for summer 2027. Most recently over summer 2025, I was a **Software Developer Intern** at **Stanford University**. I worked in a team with Stanford alumni and faculty to develop a mobile application that uses AI to automate the discovery of research papers. My role involved building the backend using **Python** and **Django** along with **RAG** to ingest thousands of papers, integrating with users' existing research profiles, and developing an intelligent AI chatbot assistant with LangChain.
+I am a passionate developer seeking new grad SWE roles for summer 2027. Most recently over summer 2026, I was a **Software Engineer Intern** at **Capital One**. I worked on building agentic workflows on the GenAI Platform, specifically using multi-agent orchestration and RAG to build a tool for engineers to research technical specifications and internal documents across the company.
 
 ### 💻 My Tech Stack
 
